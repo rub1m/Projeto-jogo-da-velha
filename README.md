@@ -12,17 +12,12 @@
       </div>
 
 ---
-  ### 🎮 Jogo da Forca Multijogador em C - Versão 1.0
+  ### 🎮 Jogo da Velha Multijogador em C - Versão 1.0
 ### Desenvolvido por: 
 - **Rubens Guilherme.** 
 - **Luan Kaue.** 
 - **Pedro Gabriel.**
 - **Gabriel Felipe.**
-### 🚀 Funcionalidades
 
-- **Modo 2 Jogadores:** Competição direta com limite de tentativas por letra.
-- **Contextos Aleatórios:** O sistema gera temas variados para as palavras, aumentando o desafio.
-- **Gerenciamento de Tentativas:** Lógica rigorosa de 3 tentativas por letra.
-- **Interface via Terminal:** Design limpo e interativo diretamente no console.
 ---
 <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=00072D&section=footer"/>⠀      
