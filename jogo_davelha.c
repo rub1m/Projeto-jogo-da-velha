@@ -26,7 +26,6 @@ typedef enum {
     MODO_CPU
 } ModoJogo;
 
-#define CAP_INI      8
 #define MAX_RANKING  50
 #define ARQ_PLACAR  "velha_placar.bin"
 
